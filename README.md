@@ -1,5 +1,27 @@
-# 💫 About Me:
-Hi, I'm Mehdi Abbas Nathani, a passionate Flutter developer from Pakistan. I specialize in creating innovative and user-centric cross-platform mobile applications.<br><br>**What I Do:**<br>- **Mobile App Development:** Designing and building seamless user experiences using Flutter.<br>- **Google Apps Script:** Automating tasks and enhancing functionality in Google Workspace applications.<br>- **VBA (Visual Basic for Applications):** Creating custom solutions for automation within Microsoft Office.<br><br>**What Drives Me:**<br>I'm fueled by the desire to contribute to the world of mobile app development and automation. My passion lies in staying at the forefront of technology, embracing challenges, and continuously growing as a developer.<br><br>**My Toolbox:**<br>- **Flutter & Dart:** Proficient in building stunning and responsive UIs.<br>- **Firebase:** Expertise in authentication, real-time databases, and storage solutions.<br>- **State Management:** Experienced with Stacked, GetX, Provider, and other solutions.<br>- **API Integration:** Skilled in connecting apps to external data sources.<br>- **Google Apps Script:** Automating workflows and enhancing Google Workspace applications.<br>- **VBA:** Creating custom solutions for automation in Microsoft Office.<br><br>**Let's Connect:**<br>- **Email:** mehdinathani@gmail.com<br>- **LinkedIn:** [Mehdi Abbas Nathani](https://www.linkedin.com/in/mehdiabbasnathani/)<br><br>Feel free to explore my repositories on GitHub. Don't hesitate to reach out for questions or collaboration ideas. Happy coding! 👨‍💻<br>
+# Mehdi Abbas Nathani
+
+Finance Operations & Process Automation Specialist
+
+I have 15+ years of experience in finance operations, including reconciliations, payments, SAP processes, and financial controls.
+
+I focus on improving efficiency by identifying manual process gaps and building automation solutions using practical tools.
+
+## What I Do
+- Financial Reconciliation & Reporting
+- Process Improvement & Workflow Optimization
+- Automation using Excel VBA, Python, and Google Apps Script
+- SAP-based financial operations
+
+## Key Focus
+I build solutions that reduce manual work, improve accuracy, and enhance financial visibility.
+
+## Featured Work
+- Finance Reconciliation Automation
+- Payment Tracking System
+- Financial Reporting Automation
+
+## Tools
+SAP | Excel VBA | Python | Google Apps Script | SQL (Basic)
 
 
 
